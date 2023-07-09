@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React-Projeto-Organo/static/css/main.9d895ce8.css",
+    "main.js": "/React-Projeto-Organo/static/js/main.6ed2b257.js",
+    "static/js/787.1fb6dee0.chunk.js": "/React-Projeto-Organo/static/js/787.1fb6dee0.chunk.js",
+    "index.html": "/React-Projeto-Organo/index.html",
+    "main.9d895ce8.css.map": "/React-Projeto-Organo/static/css/main.9d895ce8.css.map",
+    "main.6ed2b257.js.map": "/React-Projeto-Organo/static/js/main.6ed2b257.js.map",
+    "787.1fb6dee0.chunk.js.map": "/React-Projeto-Organo/static/js/787.1fb6dee0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d895ce8.css",
+    "static/js/main.6ed2b257.js"
+  ]
+}
