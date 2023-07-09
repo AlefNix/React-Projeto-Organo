@@ -9,7 +9,7 @@ Project is created with:
 * Javascript (node version: v18.16.0)
 	
 ## Setup
-Para executar esse projeto, basta clonar no seu diretório com o comando `git clone https://github.com/React-Projeto-Organo.git`
+Para executar esse projeto, basta clonar no seu diretório com o comando `git clone https://github.com/AlefNix/React-Projeto-Organo.git`
 Abra o projeto e execute o comando `npm install` e logo em seguida `npm start`.
 
 Caso não abra automaticamente no navegador, basta entrar no endereço [http://localhost:3000](http://localhost:3000).
